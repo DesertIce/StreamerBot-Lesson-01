@@ -53,3 +53,5 @@ arguments
 ### Executing inline C# code
 # Action Queues
 - Blocking
+# Stretch topic of web decks
+## touch screen based UI as another action source in the ecosystem
